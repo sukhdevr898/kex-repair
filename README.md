@@ -10,6 +10,7 @@ Login in nethunter machine <br>
 > $ git clone https://github.com/sukhdevr898/kex-repair <br>
 > $ cd kex-repair <br>
 > $ chmod +x * <br>
+> $ bash kex <br>
 > $ bash setup <br>
 > $ First time need 150-200 mb data <br>
 
