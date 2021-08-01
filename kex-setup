@@ -1,0 +1,17 @@
+sudo apt-get install tigervnc-standalone-server tigervnc-xorg-extension mate --install-recommends
+sudo chmod +x start stop passwd
+sudo cp start /usr/local/bin/
+sudo cp stop /usr/local/bin/
+sudo cp passwd /usr/local/bin/
+sudo updatedb
+
+printf "\033[0;33m ###################################################\n"
+printf "\033[0;33m # success!!Welcome to kex-repair             #\n"
+printf "\033[0;33m # site - https://sukhdevr898.site123.me  #\n"
+printf "\033[0;33m # instagram  https://instagram.com/sukhdevr898         #\n"
+printf "\033[0;33m # facebook https://facebook.com/sukhdevr898     #\n"
+printf "\033[0;33m ###################################################\n"
+printf "\033[0;32m bash passwd or ./passwd  # to set or change vnc passwd\n"
+printf "\033[0;32m bash start  or ./start   # to start vnc server\n"
+printf "\033[0;32m bash stop   or ./stop    # to stop vnc server\n"
+printf "\033[0;32m if you have any doubt then please \n ask of our instagram  https://instagram.com/sukhdevr898"
