@@ -5,6 +5,7 @@ This tool only for nethunter kex problem <br>
 Login in nethunter machine <br>
 > $ sudo su <br>
 > $ apt update -y <br>
+> $ apt install figlet -y <br>
 > $ apt install git -y <br>
 > $ git clone https://github.com/sukhdevr898/kex-repair <br>
 > $ cd kex-repair <br>
