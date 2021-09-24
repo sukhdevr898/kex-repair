@@ -2,4 +2,4 @@ chmod +x *
 clear
 figlet -f big KEX-REPAIR
 echo -e "\e[0;35m CREATED BY SUKHDEVR898"
-bash kex 
+bash setup
