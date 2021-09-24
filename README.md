@@ -11,8 +11,8 @@ Login in nethunter machine <br>
 > $ cd kex-repair <br>
 > $ chmod +x * <br>
 > $ bash kex <br>
-> $ bash setup <br>
-> $ First time need 150-200 mb data <br>
+> $ bash kex-setup <br>
+> # First time need 150-200 mb data <br>
 
 > $ bash passwd <br>
 You can use ./passwd command <br>
